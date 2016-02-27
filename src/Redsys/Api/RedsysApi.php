@@ -1,4 +1,7 @@
 <?php
+
+namespace Redsys\Api;
+
 /**
 * NOTA SOBRE LA LICENCIA DE USO DEL SOFTWARE
 *
@@ -21,7 +24,7 @@
 * Redsys Servicios de Procesamiento, S.L., CIF B85955367
 */
 
-class RedsysAPI
+class RedsysApi
 {
 
 	/******  Array de DatosEntrada ******/

@@ -1,0 +1,17 @@
+{
+    "name": "redsys/api",
+    "description": "Reddsys Api",
+    "authors": [
+        {
+            "name": "Redys",
+            "email": "contact@redsys.es"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Redsys\\Api\\": "/src/Redsys/Api"
+        }
+    },
+
+}
